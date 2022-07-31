@@ -1,3 +1,5 @@
+USE company;
+
 INSERT INTO department (department_name)
 VALUES
 ('Legal'),
